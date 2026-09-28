@@ -19,7 +19,5 @@ export const profile: Profile = {
 
 export const links: Link[] = [
   { id: "blog", title: "기술 블로그", url: "https://velog.io" },
-  { id: "github", title: "GitHub", url: "https://github.com" },
-  { id: "youtube", title: "YouTube", url: "https://www.youtube.com" },
   { id: "portfolio", title: "포트폴리오", url: "https://example.com" },
 ];
